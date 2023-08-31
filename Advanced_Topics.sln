@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vector", "vector\vector.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lambda_jump", "lambda_jump\lambda_jump.vcxproj", "{4ECEFE39-87B7-4A35-8C89-E351A96094D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sleep", "sleep\sleep.vcxproj", "{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{4ECEFE39-87B7-4A35-8C89-E351A96094D8}.Release|x64.Build.0 = Release|x64
 		{4ECEFE39-87B7-4A35-8C89-E351A96094D8}.Release|x86.ActiveCfg = Release|Win32
 		{4ECEFE39-87B7-4A35-8C89-E351A96094D8}.Release|x86.Build.0 = Release|Win32
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Debug|x64.ActiveCfg = Debug|x64
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Debug|x64.Build.0 = Debug|x64
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Debug|x86.Build.0 = Debug|Win32
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Release|x64.ActiveCfg = Release|x64
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Release|x64.Build.0 = Release|x64
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Release|x86.ActiveCfg = Release|Win32
+		{FC2AD0F9-0A8C-4DB1-A994-0E10845DE0FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
