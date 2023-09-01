@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sleep", "sleep\sleep.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thread", "thread\thread.vcxproj", "{5A5E5A49-CC01-41CA-B2A1-A187B3A2D9D2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Promise", "Promise\Promise.vcxproj", "{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{5A5E5A49-CC01-41CA-B2A1-A187B3A2D9D2}.Release|x64.Build.0 = Release|x64
 		{5A5E5A49-CC01-41CA-B2A1-A187B3A2D9D2}.Release|x86.ActiveCfg = Release|Win32
 		{5A5E5A49-CC01-41CA-B2A1-A187B3A2D9D2}.Release|x86.Build.0 = Release|Win32
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Debug|x64.ActiveCfg = Debug|x64
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Debug|x64.Build.0 = Debug|x64
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Debug|x86.Build.0 = Debug|Win32
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x64.ActiveCfg = Release|x64
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x64.Build.0 = Release|x64
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x86.ActiveCfg = Release|Win32
+		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
