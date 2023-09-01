@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thread", "thread\thread.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Promise", "Promise\Promise.vcxproj", "{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Async", "Async\Async.vcxproj", "{56FB5F2F-061F-441B-86A4-66700243BE5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x64.Build.0 = Release|x64
 		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x86.ActiveCfg = Release|Win32
 		{DAC1E4F0-C5D6-4B72-8477-B8ACFC7FA471}.Release|x86.Build.0 = Release|Win32
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Debug|x64.ActiveCfg = Debug|x64
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Debug|x64.Build.0 = Debug|x64
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Debug|x86.Build.0 = Debug|Win32
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Release|x64.ActiveCfg = Release|x64
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Release|x64.Build.0 = Release|x64
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Release|x86.ActiveCfg = Release|Win32
+		{56FB5F2F-061F-441B-86A4-66700243BE5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
