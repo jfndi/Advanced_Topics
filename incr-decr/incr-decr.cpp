@@ -82,4 +82,5 @@ int main()
 	print("Value is: {}\n", ++n);
 	print("Value is: {}\n", n);
 	print("Value is: {}\n", n--);
+	print("Value after post decrement: {}\n", n);
 }
