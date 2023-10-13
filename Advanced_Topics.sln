@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct-binding", "struct-bi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rng", "rng\rng.vcxproj", "{DE27FC65-2BCE-422C-B01E-57AD1CB6CFA6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spaceship", "spaceship\spaceship.vcxproj", "{8F3452A7-6BEC-48B5-926E-DD282130906C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{DE27FC65-2BCE-422C-B01E-57AD1CB6CFA6}.Release|x64.Build.0 = Release|x64
 		{DE27FC65-2BCE-422C-B01E-57AD1CB6CFA6}.Release|x86.ActiveCfg = Release|Win32
 		{DE27FC65-2BCE-422C-B01E-57AD1CB6CFA6}.Release|x86.Build.0 = Release|Win32
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Debug|x64.ActiveCfg = Debug|x64
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Debug|x64.Build.0 = Debug|x64
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Debug|x86.Build.0 = Debug|Win32
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Release|x64.ActiveCfg = Release|x64
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Release|x64.Build.0 = Release|x64
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Release|x86.ActiveCfg = Release|Win32
+		{8F3452A7-6BEC-48B5-926E-DD282130906C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
