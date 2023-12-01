@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "format", "format\format.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "span", "span\span.vcxproj", "{68CC39CE-36D4-4CA0-B1FE-0B43E4844253}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fstream-io-error", "fstream-io-error\fstream-io-error.vcxproj", "{27398389-9E42-4AD1-8C0D-59372A88A761}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{68CC39CE-36D4-4CA0-B1FE-0B43E4844253}.Release|x64.Build.0 = Release|x64
 		{68CC39CE-36D4-4CA0-B1FE-0B43E4844253}.Release|x86.ActiveCfg = Release|Win32
 		{68CC39CE-36D4-4CA0-B1FE-0B43E4844253}.Release|x86.Build.0 = Release|Win32
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Debug|x64.ActiveCfg = Debug|x64
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Debug|x64.Build.0 = Debug|x64
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Debug|x86.ActiveCfg = Debug|Win32
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Debug|x86.Build.0 = Debug|Win32
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Release|x64.ActiveCfg = Release|x64
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Release|x64.Build.0 = Release|x64
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Release|x86.ActiveCfg = Release|Win32
+		{27398389-9E42-4AD1-8C0D-59372A88A761}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
