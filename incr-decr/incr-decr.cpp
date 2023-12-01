@@ -69,7 +69,7 @@ template<>
 struct std::formatter<num> : std::formatter<unsigned>
 {
 	template<typename FormatContext>
-	auto format(const num& o, FormatContext ctx)
+	auto format(const num& o, FormatContext& ctx) const
 	{
 		return format_to(ctx.out(), "{}", o.getvalue());
 	}

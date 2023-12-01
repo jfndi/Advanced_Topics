@@ -15,7 +15,7 @@ template<>
 struct formatter<fs::path> : formatter<int>
 {
 	template<typename Context>
-	auto format(const fs::path& p, Context ctx)
+	auto format(const fs::path& p, Context ctx) const
 	{
 		return format_to(ctx.out(), "{}", p.string());
 	}

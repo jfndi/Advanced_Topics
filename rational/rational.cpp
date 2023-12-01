@@ -3,12 +3,12 @@
 
 using std::string;
 
-constexpr void print(std::string_view str_fmt, auto&&... args)
+constexpr void print(const std::string_view str_fmt, auto&&... args)
 {
 	fputs(std::vformat(str_fmt, std::make_format_args(args...)).c_str(), stdout);
 }
 
-const string nanstr{ "NAN" };
+const string nanstr{ "[NAN]" };
 
 class Rational
 {
@@ -116,7 +116,7 @@ template<>
 struct std::formatter<Rational> : std::formatter<unsigned>
 {
 	template<typename FormatContext>
-	auto format(const Rational& o, FormatContext& ctx)
+	auto format(const Rational& o, FormatContext& ctx) const
 	{
 		return format_to(ctx.out(), "{}", o.str());
 	}
