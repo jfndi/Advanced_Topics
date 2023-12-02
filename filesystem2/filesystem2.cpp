@@ -16,7 +16,7 @@ using namespace std;
 int main(int argc, char* argv[])
 {
 #ifdef FSVERSION
-	cout << (FSVERSION == 2 ? "Mature" : "Experimental") << " fimlesystem support.\n";
+	cout << (FSVERSION == 2 ? "Mature" : "Experimental") << " filesystem support.\n";
 
 	string path = ".";
 	if (argc > 1)
@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
 		else if (is_directory(p))
 			cout << " is a directory.\n";
 		else
-			cout << " is neithet a directory not a file.\n";
+			cout << " is neither a directory not a file.\n";
 	}
 #else
 	cerr << "Filesystem not supported yet by this compiler.\n"
