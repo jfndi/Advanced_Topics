@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorc++03_test", "vectorc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorc++11_unique_ptr", "vectorc++11_unique_ptr\vectorc++11_unique_ptr.vcxproj", "{ED51E47C-61B0-4C39-9BE2-84BB04323EC8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "movec++17_sanity_check", "movec++17_sanity_check\movec++17_sanity_check.vcxproj", "{372F2106-577C-45F9-A313-2E4DC54AC613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -371,6 +373,14 @@ Global
 		{ED51E47C-61B0-4C39-9BE2-84BB04323EC8}.Release|x64.Build.0 = Release|x64
 		{ED51E47C-61B0-4C39-9BE2-84BB04323EC8}.Release|x86.ActiveCfg = Release|Win32
 		{ED51E47C-61B0-4C39-9BE2-84BB04323EC8}.Release|x86.Build.0 = Release|Win32
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Debug|x64.ActiveCfg = Debug|x64
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Debug|x64.Build.0 = Debug|x64
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Debug|x86.ActiveCfg = Debug|Win32
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Debug|x86.Build.0 = Debug|Win32
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x64.ActiveCfg = Release|x64
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x64.Build.0 = Release|x64
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x86.ActiveCfg = Release|Win32
+		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
