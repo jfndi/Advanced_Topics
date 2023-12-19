@@ -3,7 +3,7 @@ extensions: .cs .cpp .h
 //
 // Project: %Project%
 // Filename: %FileName%
-// Creator: Jean-François Ndi
+// Creator: %UserDisplayName%
 // Creation Date: %CreationDay%-%CreationMonth%-%CreationYear% @ %CreationTime%
 //
 extensions: .aspx .ascx
