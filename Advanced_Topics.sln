@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorc++11_unique_ptr", "v
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "movec++17_sanity_check", "movec++17_sanity_check\movec++17_sanity_check.vcxproj", "{372F2106-577C-45F9-A313-2E4DC54AC613}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udl_examplesc++11", "udl_examplesc++11\udl_examplesc++11.vcxproj", "{876E2799-DEAF-463E-9AD9-21EBFB051F1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x64.Build.0 = Release|x64
 		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x86.ActiveCfg = Release|Win32
 		{372F2106-577C-45F9-A313-2E4DC54AC613}.Release|x86.Build.0 = Release|Win32
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Debug|x64.ActiveCfg = Debug|x64
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Debug|x64.Build.0 = Debug|x64
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Debug|x86.Build.0 = Debug|Win32
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x64.ActiveCfg = Release|x64
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x64.Build.0 = Release|x64
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x86.ActiveCfg = Release|Win32
+		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
