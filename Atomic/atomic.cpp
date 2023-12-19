@@ -1,3 +1,9 @@
+//
+// Project: Atomic
+// Filename: atomic.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 1-9-2023 @ 3:51 AM
+//
 #include <format>
 #include <string>
 #include <list>

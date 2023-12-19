@@ -1,3 +1,9 @@
+//
+// Project: rng
+// Filename: rng.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 13-10-2023 @ 2:31 AM
+//
 #include <format>
 #include <string_view>
 #include <vector>

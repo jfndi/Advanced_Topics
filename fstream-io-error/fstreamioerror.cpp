@@ -1,3 +1,9 @@
+//
+// Project: fstream-io-error
+// Filename: fstreamioerror.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 1-12-2023 @ 4:13 AM
+//
 #include <iostream>
 #include <fstream>
 

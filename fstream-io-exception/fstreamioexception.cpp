@@ -1,3 +1,9 @@
+//
+// Project: fstream-io-exception
+// Filename: fstreamioexception.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 1-12-2023 @ 5:57 AM
+//
 #include <iostream>
 #include <fstream>
 

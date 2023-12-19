@@ -1,3 +1,10 @@
+//
+// Project: functor
+// Filename: functor.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 31-8-2023 @ 5:04 AM
+//
+
 /*
  * For our print function. Supported starting with C++20.
  */

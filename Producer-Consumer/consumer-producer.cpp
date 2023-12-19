@@ -1,3 +1,9 @@
+//
+// Project: Producer-Consumer
+// Filename: consumer-producer.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 3-9-2023 @ 8:07 AM
+//
 #include <format>
 #include <deque>
 #include <thread>

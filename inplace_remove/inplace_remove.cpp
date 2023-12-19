@@ -1,3 +1,9 @@
+//
+// Project: inplace_remove
+// Filename: inplace_remove.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 31-8-2023 @ 5:04 AM
+//
 #include <vector>
 #include <iostream>
 #include <concepts>

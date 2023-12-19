@@ -1,3 +1,9 @@
+//
+// Project: vectorc++11_unique_ptr
+// Filename: vector_unique_ptr.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 3-12-2023 @ 12:14 PM
+//
 #include <cassert>
 #include <iostream>
 #include <memory>

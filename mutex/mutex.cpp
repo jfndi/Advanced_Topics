@@ -1,3 +1,9 @@
+//
+// Project: mutex
+// Filename: mutex.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 2-9-2023 @ 6:56 AM
+//
 #include <format>
 #include <string_view>
 #include <thread>

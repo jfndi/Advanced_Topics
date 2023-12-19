@@ -1,3 +1,10 @@
+//
+// Project: udl_examplesc++11
+// Filename: udl_examples.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 19-12-2023 @ 10:51 AM
+//
+
 /**
  * This example illustrates the use od User-Defined literals. 
  */

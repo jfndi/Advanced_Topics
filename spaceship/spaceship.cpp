@@ -1,3 +1,9 @@
+//
+// Project: spaceship
+// Filename: spaceship.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 13-10-2023 @ 3:12 AM
+//
 #include <format>
 #include <compare>
 
