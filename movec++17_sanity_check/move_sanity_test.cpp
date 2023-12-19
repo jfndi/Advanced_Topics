@@ -251,7 +251,7 @@ struct movable
 {
 	movable(int i) : i(i) {}
 	movable(const movable&) = default;
-	movable(movable&& x)
+	movable(movable&& x) noexcept
 	{
 		i = x.i;
 		x.i = -999;
