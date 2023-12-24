@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "movec++17_sanity_check", "m
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udl_examplesc++11", "udl_examplesc++11\udl_examplesc++11.vcxproj", "{876E2799-DEAF-463E-9AD9-21EBFB051F1E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Occi_old_style_c++03", "Occi_old_style_c++03\Occi_old_style_c++03.vcxproj", "{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x64.Build.0 = Release|x64
 		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x86.ActiveCfg = Release|Win32
 		{876E2799-DEAF-463E-9AD9-21EBFB051F1E}.Release|x86.Build.0 = Release|Win32
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Debug|x64.ActiveCfg = Debug|x64
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Debug|x64.Build.0 = Debug|x64
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Debug|x86.Build.0 = Debug|Win32
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Release|x64.ActiveCfg = Release|x64
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Release|x64.Build.0 = Release|x64
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Release|x86.ActiveCfg = Release|Win32
+		{87E094F8-B6BA-4FEE-AFA4-F64B6F062CD4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
