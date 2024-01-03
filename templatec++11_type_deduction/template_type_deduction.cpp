@@ -1,3 +1,9 @@
+//
+// Project: templatec++11_type_deduction
+// Filename: template_type_deduction.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 2-1-2024 @ 7:00 PM
+//
 #include <iostream>
 #include <typeinfo>
 #include <string>
