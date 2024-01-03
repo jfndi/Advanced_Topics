@@ -1,3 +1,9 @@
+//
+// Project: spaceshipc++20_example
+// Filename: spaceship.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 2-1-2024 @ 8:59 AM
+//
 #include <iostream>
 
 class value
