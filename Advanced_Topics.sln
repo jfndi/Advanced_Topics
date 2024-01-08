@@ -100,6 +100,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorc++11_template", "vec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "accumulatec++03_example", "accumulatec++03_example\accumulatec++03_example.vcxproj", "{40755DA3-02A6-4F03-AE00-CBEB2917A6EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "value_range_vectorc++14", "value_range_vectorc++14\value_range_vectorc++14.vcxproj", "{183C150D-112C-46C4-8293-58558D831335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -476,6 +478,14 @@ Global
 		{40755DA3-02A6-4F03-AE00-CBEB2917A6EC}.Release|x64.Build.0 = Release|x64
 		{40755DA3-02A6-4F03-AE00-CBEB2917A6EC}.Release|x86.ActiveCfg = Release|Win32
 		{40755DA3-02A6-4F03-AE00-CBEB2917A6EC}.Release|x86.Build.0 = Release|Win32
+		{183C150D-112C-46C4-8293-58558D831335}.Debug|x64.ActiveCfg = Debug|x64
+		{183C150D-112C-46C4-8293-58558D831335}.Debug|x64.Build.0 = Debug|x64
+		{183C150D-112C-46C4-8293-58558D831335}.Debug|x86.ActiveCfg = Debug|Win32
+		{183C150D-112C-46C4-8293-58558D831335}.Debug|x86.Build.0 = Debug|Win32
+		{183C150D-112C-46C4-8293-58558D831335}.Release|x64.ActiveCfg = Release|x64
+		{183C150D-112C-46C4-8293-58558D831335}.Release|x64.Build.0 = Release|x64
+		{183C150D-112C-46C4-8293-58558D831335}.Release|x86.ActiveCfg = Release|Win32
+		{183C150D-112C-46C4-8293-58558D831335}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
