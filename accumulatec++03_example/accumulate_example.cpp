@@ -11,7 +11,7 @@ using namespace std;
 
 #if 0
 /*
- * Function oreloading way of doing things. 
+ * Function overloading way of doing things. 
  */
 int sum(int* array, int length)
 {
