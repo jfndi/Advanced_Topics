@@ -1,3 +1,9 @@
+//
+// Project: absc++14_functor
+// Filename: abs_functor.cpp
+// Creator: Jean-François Ndi
+// Creation Date: 11-1-2024 @ 9:18 AM
+//
 #include <iostream>
 #include <complex>
 
