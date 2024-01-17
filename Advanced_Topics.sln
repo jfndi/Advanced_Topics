@@ -108,6 +108,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "absc++14_functor", "absc++1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorc++20_formatted_output", "vectorc++20_formatted_output\vectorc++20_formatted_output.vcxproj", "{0447E3A6-3005-4043-944F-66B022A966E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fsizec++11_vector", "fsizec++11_vector\fsizec++11_vector.vcxproj", "{A04CBCB2-2350-4A1D-876E-6617DF1854F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -516,6 +518,14 @@ Global
 		{0447E3A6-3005-4043-944F-66B022A966E5}.Release|x64.Build.0 = Release|x64
 		{0447E3A6-3005-4043-944F-66B022A966E5}.Release|x86.ActiveCfg = Release|Win32
 		{0447E3A6-3005-4043-944F-66B022A966E5}.Release|x86.Build.0 = Release|Win32
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Debug|x64.ActiveCfg = Debug|x64
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Debug|x64.Build.0 = Debug|x64
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Debug|x86.Build.0 = Debug|Win32
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Release|x64.ActiveCfg = Release|x64
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Release|x64.Build.0 = Release|x64
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Release|x86.ActiveCfg = Release|Win32
+		{A04CBCB2-2350-4A1D-876E-6617DF1854F8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
